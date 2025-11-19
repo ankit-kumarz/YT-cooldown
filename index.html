@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Channel - Watch to Unlock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content-box">
+            <h1>Watch Our Video!</h1>
+            <p class="subtitle">Watch for 30 seconds to unlock exclusive content</p>
+            
+            <div class="video-wrapper">
+                <div id="player"></div>
+            </div>
+            
+            <div class="timer-section">
+                <p id="timer-text" class="timer-text">Watch for <span id="countdown">30</span> seconds to unlock the link</p>
+            </div>
+            
+            <button id="get-link-btn" class="btn-get-link" disabled>
+                Get Link
+            </button>
+        </div>
+    </div>
+
+    <!-- Load YouTube IFrame API -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="script.js"></script>
+</body>
+</html>
