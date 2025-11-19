@@ -1,5 +1,5 @@
 // Configuration
-const YOUTUBE_VIDEO_ID = 'xpJasJrm_xk'; // Replace with your YouTube video ID
+const YOUTUBE_VIDEO_ID = '1vT2QbefrCg'; // Replace with your YouTube video ID
 const REDIRECT_URL = 'https://github.com/ankit-kumarz'; // Replace with your desired redirect URL
 const REQUIRED_WATCH_TIME = 30; // seconds
 
