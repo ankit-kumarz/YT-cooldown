@@ -1,6 +1,6 @@
 // Configuration
 const YOUTUBE_VIDEO_ID = '1vT2QbefrCg'; // Replace with your YouTube video ID
-const REDIRECT_URL = 'https://github.com/ankit-kumarz'; // Replace with your desired redirect URL
+const REDIRECT_URL = 'https://docs.google.com/document/d/1TabJZqpxmt74Vd931xRZewePQ8UbUHPQolNFPrk_Wlc/edit?usp=sharing'; // Replace with your desired redirect URL
 const REQUIRED_WATCH_TIME = 30; // seconds
 
 // Variables
